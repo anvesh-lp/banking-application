@@ -1,3 +1,4 @@
-# online-banking-application
+Banking-application
 Account to account transfer
-I have used both java and database script in single notepad.
+Its an simple java banking application developed to transfer from account to account.
+Here I  used both java and database script in single notepad.
