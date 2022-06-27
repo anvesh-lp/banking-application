@@ -14,6 +14,7 @@ public class Main {
         Statement stmtp=null;
 
         try {
+//            hrllo yher i am nvesjsdlksdnfka
             Class.forName("com.mysql.jdbc.Driver");
              conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/ganesh", "root", "");
             System.out.println("Connected to database.");
